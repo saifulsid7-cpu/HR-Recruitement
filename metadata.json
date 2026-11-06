@@ -1,0 +1,8 @@
+{
+  "name": "6112026- HR Management System",
+  "description": "Screen candidate CVs against job descriptions with AI-powered skill extraction, candidate category identification (Merchandising / Fashion Designing), match scoring, XYZ staff salary fixation policy justification, manual shortlist/reject controls, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
